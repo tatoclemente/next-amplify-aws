@@ -1,0 +1,3 @@
+da2-72isdxnxpbcdbiaakpmia6cspa
+
+https://6nobbbbv65hc7enq66dptp4mam.appsync-api.us-east-1.amazonaws.com/graphql
